@@ -1,0 +1,21 @@
+/* header */
+.navbar-brand h1 {
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+nav.navbar {
+	background-color: yellow;
+}
+#box1, #box2, #box3 {
+	background-color: #00FFFF;
+	margin-bottom: 10px;
+	border: 1px solid black;
+	padding: 5px;
+}
